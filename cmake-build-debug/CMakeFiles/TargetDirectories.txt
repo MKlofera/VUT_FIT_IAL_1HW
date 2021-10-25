@@ -1,0 +1,3 @@
+D:/school/2bit/ial/projekty/1uloha/cmake-build-debug/CMakeFiles/1uloha.dir
+D:/school/2bit/ial/projekty/1uloha/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/school/2bit/ial/projekty/1uloha/cmake-build-debug/CMakeFiles/rebuild_cache.dir

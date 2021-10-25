@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../c202/c202.h
+stdio.h
+-
+
+D:/school/2bit/ial/projekty/1uloha/c204/c204-test.c
+c204.h
+D:/school/2bit/ial/projekty/1uloha/c204/c204.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+
+D:/school/2bit/ial/projekty/1uloha/c204/c204.h
+stdio.h
+-
+stdlib.h
+-
+c202.h
+D:/school/2bit/ial/projekty/1uloha/c204/c202.h
+
